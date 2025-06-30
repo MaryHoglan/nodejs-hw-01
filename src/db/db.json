@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "402f4297-7fc7-4f65-9d52-f8755ad3f311",
+    "name": "Eric Hoeger",
+    "phone": "359.914.0075 x19669",
+    "email": "Sunny4@yahoo.com",
+    "job": "Direct Marketing Officer"
+  },
+  {
+    "id": "a9124ead-f03c-413c-80ba-78ba15f15938",
+    "name": "Shane Kshlerin",
+    "phone": "908.908.2723",
+    "email": "Randi.Conn@gmail.com",
+    "job": "National Quality Officer"
+  },
+  {
+    "id": "8cf7df90-5efd-4133-afde-9f77b6be12c0",
+    "name": "Mrs. Eileen Lueilwitz",
+    "phone": "1-782-968-1665 x40168",
+    "email": "Mary_Mayert86@hotmail.com",
+    "job": "Future Directives Specialist"
+  },
+  {
+    "id": "9ea68f4b-f5c9-4bcf-bafb-8dabadaf9939",
+    "name": "Laura Strosin Jr.",
+    "phone": "1-487-421-1154 x2410",
+    "email": "Nigel21@hotmail.com",
+    "job": "Central Interactions Specialist"
+  }
+]
